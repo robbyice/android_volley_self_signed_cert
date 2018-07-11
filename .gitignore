@@ -9,6 +9,7 @@
 /captures
 .externalNativeBuild
 /app/src/main/res/raw/*
+/server/*.pem
 
 
 # Created by https://www.gitignore.io/api/java,kotlin,android,intellij
